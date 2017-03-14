@@ -7,6 +7,7 @@ DropShop is an API first e-commerce platform for the dropshipping market. It is 
 - Catalogue Data
 - Account Management
 - Transaction Handling
+- Tracking
 
 ## Drop-shipping
 
